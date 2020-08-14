@@ -2,4 +2,4 @@
 
 ## Calculos: Aceleracion, Fuerza o Masa
 
-Ejemplo de calculos acorde a __Ssegunda Ley de Newton__
+Ejemplo de calculos acorde a __Segunda Ley de Newton__
